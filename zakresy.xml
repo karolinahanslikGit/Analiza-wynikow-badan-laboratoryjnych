@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<data>
+<parametr nazwa="Witamina D">
+	<zakresy>
+		<zakres>
+			<wartości opis="niedobór">0-20</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="stężenie niewystarczające">20-30</wartości>
+		
+		</zakres>
+		<zakres>
+			<wartości opis="stężenie optymalne">30-50</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="stężenie wysokie">50-100</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="stężenie potencjalnie toksyczne">100-inf</wartości>
+			
+		</zakres>
+	</zakresy>
+</parametr>
+<parametr nazwa="Cholesterol LDL mg/dl">
+	<zakresy>
+		<zakres>
+			<wartości opis="dla bardzo dużego ryzyka">0-70</wartości>
+		
+		</zakres>
+		
+		<zakres>
+			<wartości opis="dla dużego ryzyka">70-100</wartości>
+		</zakres>
+		<zakres>
+			<wartości opis="dla umiarkowanego lub małego ryzyka">100-115</wartości>
+	
+		</zakres>
+		
+		
+	</zakresy>
+</parametr>	
+<parametr nazwa="Cholesterol LDL mmol/l">
+	
+	<zakresy>
+		
+		<zakres>
+			<wartości opis="dla bardzo dużego ryzyka">0-1.8</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="dla dużego ryzyka">1.8-2.6</wartości>
+		
+		</zakres>
+		<zakres>
+			<wartości opis="dla umiarkowanego lub małego ryzyka">2.6-3.0</wartości>
+		
+		</zakres>
+		
+		
+	</zakresy>
+</parametr>			
+
+<parametr nazwa="Cholesterol Nie-HDL mg/dl">
+	
+	<zakresy>
+		<zakres>
+			<wartości opis="dla bardzo dużego ryzyka">0-100</wartości>
+		
+		</zakres>
+		
+		<zakres>
+			<wartości opis="dla dużego ryzyka">100-130</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="dla umiarkowanego lub małego ryzyka">130-145</wartości>
+		</zakres>
+		
+	</zakresy>
+</parametr>	
+<parametr nazwa="Cholesterol Nie-HDL mmol/l">
+	
+	<zakresy>
+		<zakres>
+			<wartości opis="dla bardzo dużego ryzyka">0-2.6</wartości>
+		
+		</zakres>
+		
+		<zakres>
+			<wartości opis="dla dużego ryzyka">2.6-3.3</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="dla umiarkowanego lub małego ryzyka">3.3-3.8</wartości>
+		</zakres>
+		
+	</zakresy>
+</parametr>	
+
+<parametr nazwa ="Wskaźnik aterogenny">
+	
+	<zakresy>
+		<zakres>
+			<wartości opis="Kobiety">0-4</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="Mężczyźni">0-4.5</wartości>
+			
+		</zakres>
+		
+	</zakresy>
+</parametr>	
+<parametr nazwa ="eGFR">
+	
+	<zakresy>
+		<zakres>
+			<wartości>>=60</wartości>
+			
+		</zakres>
+		
+		
+	</zakresy>
+</parametr>	
+<parametr nazwa="Cholesterol całkowity">
+	<zakresy>
+		<zakres>
+			<wartości >0-5</wartości>
+		
+		</zakres>
+		
+		
+		
+	</zakresy>
+</parametr>	
+<parametr nazwa ="Glukoza">
+	
+	<zakresy>
+		<zakres>
+			<wartości opis="prawidłowej glikemii na czczo">3.4-5.5</wartości>
+			
+		</zakres>
+		<zakres>
+			<wartości opis="nieprawidłowej glikemiina czczo">5.6-6.9</wartości>
+			
+		</zakres>
+		
+	</zakresy>
+</parametr>	
+
+</data>
